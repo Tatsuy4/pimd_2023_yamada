@@ -1,4 +1,4 @@
-I = imread("coins/ong");
+I = imread("coins.png");
 figure(1)
 subplot(1,3,1)
 imshow(I)
